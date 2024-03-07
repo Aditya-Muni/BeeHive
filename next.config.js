@@ -12,7 +12,7 @@ const nextConfig = {
       // },
       {
         protocol: "https",
-        hostname: "https://beehive-production.up.railway.app",
+        hostname: "beehive-production.up.railway.app",
       },
     ],
   },
