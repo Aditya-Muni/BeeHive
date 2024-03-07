@@ -33,9 +33,9 @@ export const EmailTemplate = ({
         <Container style={container}>
           <Img
             src={`${process.env.NEXT_PUBLIC_SERVER_URL}/logo.png`}
-            width="150"
-            height="150"
-            alt="DigitalHippo"
+            width="71"
+            height="100"
+            alt="BeeHive"
             style={logo}
           />
           <Text style={paragraph}>Hi there,</Text>

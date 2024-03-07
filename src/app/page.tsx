@@ -41,7 +41,9 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row gap-4 mt-6">
             <Link
               href="/products"
-              className={buttonVariants({ className: "hover:bg-gray-900" })}
+              className={buttonVariants({
+                className: "bg-blue-600 hover:bg-gray-900",
+              })}
             >
               Browse Trending
             </Link>

@@ -76,7 +76,9 @@ const Page = () => {
       <div className="container relative flex pt-20 flex-col items-center justify-center lg:px-0">
         <div className="mx-auto flex w-full flex-col justify-center space-y-6 sm:w-[350px]">
           <div className="flex flex-col items-center space-y-2 text-center">
-            <Image alt="" src="/logo.png" width="50" height="50" />
+            <div className="relative mb-4 h-24 w-24 text-muted-foreground">
+              <Image src="/logo-verify.png" fill alt="the email was sent" />
+            </div>
             <h1 className="text-2xl font-semibold tracking-tight">
               Sign in to your {isSeller ? "seller" : ""} account
             </h1>

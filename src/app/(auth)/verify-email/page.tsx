@@ -20,8 +20,8 @@ const VerifyEmailPage = ({ searchParams }: PageProps) => {
           </div>
         ) : (
           <div className="flex h-full flex-col items-center justify-center space-y-1">
-            <div className="relative mb-4 h-60 w-60 text-muted-foreground">
-              <Image src="/logo.png" fill alt="BeeHive email sent image" />
+            <div className="relative mb-4 h-24 w-24 text-muted-foreground">
+              <Image src="/logo-verify.png" fill alt="the email was sent" />
             </div>
 
             <h3 className="font-semibold text-2xl">Check your email</h3>

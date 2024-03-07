@@ -47,7 +47,7 @@ export const ReceiptEmail = ({
             <Column>
               <Img
                 src={`${process.env.NEXT_PUBLIC_SERVER_URL}/logo.png`}
-                width="100"
+                width="71"
                 height="100"
                 alt="BeeHive"
               />
