@@ -6,9 +6,13 @@ const nextConfig = {
         protocol: "http",
         hostname: "localhost",
       },
+      // {
+      //   protocol: "https",
+      //   hostname: "https://bee-hive.vercel.app",
+      // },
       {
         protocol: "https",
-        hostname: "https://bee-hive.vercel.app",
+        hostname: "https://beehive-production.up.railway.app",
       },
     ],
   },
