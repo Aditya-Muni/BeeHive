@@ -12,7 +12,7 @@ const nextConfig = {
       // },
       {
         protocol: "https",
-        hostname: "beehive-production.up.railway.app",
+        hostname: "beehive-hmb1.onrender.com",
       },
     ],
   },
