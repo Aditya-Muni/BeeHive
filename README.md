@@ -1,6 +1,6 @@
 # BeeHive
 
-[![Project Image](https://raw.githubusercontent.com/Aditya-Muni/BeeHive/main/public/thumbnail.png)](https://beehive-production.up.railway.app/)
+[![Project Image](https://raw.githubusercontent.com/Aditya-Muni/BeeHive/main/public/thumbnail.png)](https://beehive-hmb1.onrender.com)
 
 ### What it does ?
 
@@ -52,4 +52,4 @@ RESEND_API_KEY=<br />
 
 ## Live Project
 
-https://beehive-production.up.railway.app
+https://beehive-hmb1.onrender.com
