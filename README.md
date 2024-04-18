@@ -1,6 +1,6 @@
 # BeeHive
 
-[![Project Image](https://raw.githubusercontent.com/Aditya-Muni/BeeHive/main/public/thumbnail.png)](https://beehive-production.up.railway.app/)
+[![Project Image](https://raw.githubusercontent.com/Aditya-Muni/BeeHive/main/public/thumbnail.png)](https://beehive-hmb1.onrender.com)
 
 ### What it does ?
 
@@ -31,7 +31,7 @@ Visit link: https://beehive-production.up.railway.app
 2.Navigate to the Project Directory:
 
 ```bash
-cd BeeHive
+  cd BeeHive
 ```
 
 3.Open console and run
@@ -42,12 +42,14 @@ cd BeeHive
 
 4.Create a .env file (example .env)
 
-NEXT_PUBLIC_SERVER_URL=
-PAYLOAD_SECRET=
-MONGODB_URL=
-STRIPE_SECRET_KEY=
-RESEND_API_KEY=
+NEXT_PUBLIC_SERVER_URL= <br />
+PAYLOAD_SECRET=<br />
+MONGODB_URL=<br />
+STRIPE_SECRET_KEY=<br />
+RESEND_API_KEY=<br />
+
+5.Deploy
 
 ## Live Project
 
-https://beehive-production.up.railway.app
+https://beehive-hmb1.onrender.com
