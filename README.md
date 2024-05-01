@@ -1,4 +1,5 @@
 # BeeHive
+### !!! free hostings are slow, please be patient
 
 [![Project Image](https://raw.githubusercontent.com/Aditya-Muni/BeeHive/main/public/thumbnail.png)](https://beehive-hmb1.onrender.com)
 
@@ -7,7 +8,7 @@
 Beehive is an e-commerce platform tailored for digital asset. It enables users to list their digital assets for sale and allows others to browse and purchase them. User verification is a crucial step to ensure credibility within the platform, and every listed product undergoes authentication by an admin to guarantee its authenticity and quality.
 Built with the Next.js 14 App Router, tRPC, TypeScript, MongoDB & Tailwind.
 
-Visit link: https://beehive-production.up.railway.app
+Visit link: https://beehive-hmb1.onrender.com
 
 ## Features
 
